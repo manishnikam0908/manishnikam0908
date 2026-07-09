@@ -1,111 +1,144 @@
-<h1 align="center">Hi 👋, I'm Manish Nikam</h1>
+<div align="center">
 
-<h3 align="center">
-Web Developer • AI Builder • Computer Engineering Student
-</h3>
+# Hi there, I'm Manish Nikam 👋
 
-<p align="center">
-I build modern, high-performance web applications and AI-powered solutions with a focus on clean design, smooth user experiences, and scalable development.
+### Full Stack Web Developer • Generative AI Developer • AI Agent Builder
+
+<p>
+I build modern, scalable web applications and intelligent AI-powered solutions that combine clean architecture, exceptional user experiences, and real-world impact.
 </p>
 
----
+<p>
+Passionate about creating premium digital products using modern web technologies, AI, automation, and innovative design.
+</p>
 
-## 🚀 About Me
-
-- 🎓 Diploma Student in Computer Engineering
-- 💻 Passionate about Full Stack Web Development
-- 🤖 Building AI-powered applications and tools
-- 🎨 Interested in Premium UI/UX and 3D Web Experiences
-- 🌱 Currently learning React, Next.js, Three.js, Node.js, Express.js, MongoDB, and AI Integration
-- 🎯 Goal: Build world-class digital products and become a Full Stack AI Developer
+</div>
 
 ---
 
-## 💻 Tech Stack
+# 🚀 About Me
+
+I'm a Computer Engineering student with a strong passion for **Full Stack Development**, **Generative AI**, and **AI Agents**. I enjoy solving real-world problems by building fast, scalable, and intelligent applications.
+
+I believe great software is more than just writing code—it's about delivering meaningful user experiences through clean design, high performance, and modern engineering practices.
+
+---
+
+## 💼 What I Do
+
+* 🌐 Full Stack Web Development
+* 🤖 Generative AI Applications
+* 🧠 AI Agents & Agentic AI Systems
+* ⚡ REST API Development
+* 🎨 Modern UI/UX Engineering
+* 🚀 Performance Optimization
+
+---
+
+## 🛠 Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
-- Vite
-- Tailwind CSS
-- GSAP
-- Framer Motion
+
+HTML5 • CSS3 • JavaScript • React • Vite • Tailwind CSS • GSAP • Framer Motion
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
+
+Node.js • Express.js • REST APIs
 
 ### Database
-- MongoDB
-- MySQL
+
+MongoDB • MySQL
 
 ### Programming Languages
-- JavaScript
-- Python
-- Java
-- C
-- C++
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Figma
-- Postman
+JavaScript • Python • Java • C • C++
 
----
+### Tools & Platforms
 
-## 🌟 Featured Projects
-
-### 🌐 Premium Portfolio
-A modern portfolio with cinematic animations, responsive layouts, and smooth user interactions.
-
-### 🤖 AI Web Applications
-Intelligent web applications powered by modern AI APIs and automation.
-
-### 🛒 Full Stack MERN Projects
-Scalable web applications with authentication, databases, dashboards, and REST APIs.
-
-### 🎨 UI & Landing Pages
-Premium landing pages inspired by modern product experiences and interactive design.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+Git • GitHub • VS Code • Postman • Figma • Cloudinary
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced React
-- Next.js
-- Three.js & React Three Fiber
-- Node.js & Express.js
-- MongoDB
-- AI Integration
-- System Design
+* Advanced React & Next.js
+* Generative AI
+* AI Agents & Agentic Workflows
+* LangChain
+* MCP (Model Context Protocol)
+* Three.js & React Three Fiber
+* System Design
+* Scalable Backend Architecture
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Career Goals
 
-- 🌐 Portfolio: https://your-portfolio.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 📧 Email: your-email@example.com
+* Build production-ready AI products
+* Develop intelligent autonomous AI agents
+* Create world-class web experiences
+* Contribute to open-source projects
+* Continuously learn emerging technologies
 
 ---
 
-## 💡 Quote
+## 🚀 Featured Projects
 
-> "Great products are built by combining creativity, performance, and continuous learning."
+### 🌐 Premium Portfolio Website
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+A high-performance developer portfolio featuring modern animations, responsive design, and interactive user experiences.
+
+### 🤖 AI-Powered Applications
+
+Real-world AI projects integrating modern language models, automation, and intelligent workflows.
+
+### 🛒 Full Stack MERN Applications
+
+Complete web applications with authentication, REST APIs, dashboards, and database integration.
+
+### 🎨 Premium UI Engineering
+
+Beautiful interfaces focused on performance, accessibility, and seamless interactions.
+
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=github_dark\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=github-dark\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=github_dark\&hide_border=true)
+
+---
+
+## 🌍 Portfolio
+
+**Website:** https://manish-nikam-porfolio.vercel.app/
+
+---
+
+## 📫 Contact
+
+📧 Email: [manishnikam0908@gmail.com](mailto:manishnikam0908@gmail.com)
+
+🌐 Portfolio: https://manish-nikam-porfolio.vercel.app/
+
+---
+
+## 💡 Philosophy
+
+> *"Technology becomes meaningful when it solves real-world problems through innovation, simplicity, and exceptional user experience."*
+
+---
+
+<div align="center">
+
+### Thank you for visiting my profile!
+
+Let's build something amazing together. 🚀
+
+</div>
+
+
+
